@@ -33,7 +33,7 @@ It is one of my first projects while learning web development.
 
 ## 🌐 Live Demo
 
-[Coming soon](https://danielbrum-py.github.io/login-page-html-css/)
+[open test](https://danielbrum-py.github.io/login-page-html-css/)
 
 ## 👨‍💻 Author
 
