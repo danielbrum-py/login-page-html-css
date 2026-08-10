@@ -18,17 +18,28 @@ div {
     gap: 0.46rem;
 }
 main{
-    padding-inline: 45rem;
+    padding-inline: 35rem;
     margin-top: 6rem;
     text-align: center;
     display: flex;
     flex-direction: column;
     color: rgb(0, 6, 11);
+    font-size: 2rem;
 }
 fieldset{
     background: linear-gradient(to bottom, #7495b7, #d0dfef9d);
     border: 5px solid black;
     border-radius: 10px;
     padding: 1rem;
+}
+input[type="text"], input[type="email"], input[type="password"]{
+    width: 260px;
+    height: 30px;
+    margin: 10px;
+    padding: 5px;
+}
+
+h2{
+    margin: 15px;
 }
 
